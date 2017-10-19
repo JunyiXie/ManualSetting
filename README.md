@@ -1,3 +1,7 @@
 # ManualSetting
-> 自己的一些偏好设置
-- 键盘映射 Cherry MX 6.0
+
+常用软件配置
+
+百度云盘:
+链接:http://pan.baidu.com/s/1c97UWm  密码:2txz
+

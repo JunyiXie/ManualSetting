@@ -9,7 +9,7 @@ Setup :) fuck the Hackintosh!
 4. Alfred
 5. Xcode
 6. proxychain4
-
+7. http
 
 #- HomeBrew
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -31,3 +31,5 @@ Setup :) fuck the Hackintosh!
 #- Alfred3 Dash
 `https://www.waitsun.com/`
 
+#- http
+`brew install http`
